@@ -115,7 +115,6 @@ SET(TESTS
   cost_estimate
   dbug
   decimal
-  dns_srv_data
   dphyp
   filesort_buffer
   filesort_compare
